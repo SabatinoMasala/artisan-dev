@@ -5,7 +5,7 @@ Run multiple scripts in parallel from a single command, with integrated logging.
 ## Installation
 
 ```
-composer require sabatinomasala/dev-scripts-for-laravel
+composer require sabatino/artisan-dev
 ```
 
 This package publishes a `dev-scripts` config file:
