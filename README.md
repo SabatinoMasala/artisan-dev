@@ -1,4 +1,4 @@
-# Dev scripts for Laravel
+# Add an 'artisan dev' command to Laravel
 
 Run multiple scripts in parallel from a single command, with integrated logging.
 
